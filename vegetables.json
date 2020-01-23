@@ -1,0 +1,4 @@
+{
+  "description": "A list of fruits.",
+  "fruits": ["cucumber", "tomato", "lettus"]
+}
